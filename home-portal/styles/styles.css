@@ -8,8 +8,12 @@ body {
     line-height: 1.5;
 }
 
-header, footer {
-    border-radius: 15px;
+main {
+    text-align: center;
+}
+
+ul {
+    display: inline-block;
 }
 
 header, nav, main, footer {

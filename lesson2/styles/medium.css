@@ -1,0 +1,12 @@
+@media only screen and (min-width: 32.5em) {
+
+    #main-grid {
+        grid-template-columns: 1fr 1fr;
+        margin: 20px;
+    }  
+    .design-principles:last-child {
+        grid-column: 1/3;
+    }
+
+}
+
